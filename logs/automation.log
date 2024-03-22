@@ -233,3 +233,19 @@
 2024-03-21 17:15:42,620 INFO a.t.UserTests [main] ******* User Info Updated *********
 2024-03-21 17:15:42,624 INFO a.t.UserTests [main] ******* Deleting User *********
 2024-03-21 17:15:44,561 INFO a.t.UserTests [main] *******User deleted *********
+2024-03-22 16:35:51,099 INFO a.t.UserTests2 [main] ******* Creating User *********
+2024-03-22 16:35:57,168 INFO a.t.UserTests2 [main] ******* User created *********
+2024-03-22 16:35:57,211 INFO a.t.UserTests2 [main] ******* Reading User  Info *********
+2024-03-22 16:35:59,045 INFO a.t.UserTests2 [main] ******* User Info Displayed *********
+2024-03-22 16:35:59,051 INFO a.t.UserTests2 [main] ******* Updating User Info *********
+2024-03-22 16:36:02,720 INFO a.t.UserTests2 [main] ******* User Info Updated *********
+2024-03-22 16:36:02,727 INFO a.t.UserTests2 [main] ******* Deleting User *********
+2024-03-22 16:36:04,620 INFO a.t.UserTests2 [main] *******User deleted *********
+2024-03-22 16:37:28,192 INFO a.t.UserTests2 [main] ******* Creating User *********
+2024-03-22 16:37:33,276 INFO a.t.UserTests2 [main] ******* User created *********
+2024-03-22 16:37:33,292 INFO a.t.UserTests2 [main] ******* Reading User  Info *********
+2024-03-22 16:37:34,816 INFO a.t.UserTests2 [main] ******* User Info Displayed *********
+2024-03-22 16:37:34,821 INFO a.t.UserTests2 [main] ******* Updating User Info *********
+2024-03-22 16:37:38,155 INFO a.t.UserTests2 [main] ******* User Info Updated *********
+2024-03-22 16:37:38,160 INFO a.t.UserTests2 [main] ******* Deleting User *********
+2024-03-22 16:37:39,887 INFO a.t.UserTests2 [main] *******User deleted *********
