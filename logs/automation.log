@@ -249,3 +249,11 @@
 2024-03-22 16:37:38,155 INFO a.t.UserTests2 [main] ******* User Info Updated *********
 2024-03-22 16:37:38,160 INFO a.t.UserTests2 [main] ******* Deleting User *********
 2024-03-22 16:37:39,887 INFO a.t.UserTests2 [main] *******User deleted *********
+2024-03-22 17:57:41,437 INFO a.t.UserTests2 [main] ******* Creating User *********
+2024-03-22 17:57:47,565 INFO a.t.UserTests2 [main] ******* User created *********
+2024-03-22 17:57:47,610 INFO a.t.UserTests2 [main] ******* Reading User  Info *********
+2024-03-22 17:57:49,293 INFO a.t.UserTests2 [main] ******* User Info Displayed *********
+2024-03-22 17:57:49,300 INFO a.t.UserTests2 [main] ******* Updating User Info *********
+2024-03-22 17:57:52,492 INFO a.t.UserTests2 [main] ******* User Info Updated *********
+2024-03-22 17:57:52,498 INFO a.t.UserTests2 [main] ******* Deleting User *********
+2024-03-22 17:57:54,003 INFO a.t.UserTests2 [main] *******User deleted *********
